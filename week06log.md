@@ -1,6 +1,8 @@
 #  week06 WORK LOG
 
-## We revised the final proposal based on the feedback we received from the teacher in class on the proposal. Added preliminary design, circuit diagram and planned components to the proposal. In the same week, the two of us continued our research, brainstormed online & mindmap, read literature on social network tagging, looked at related space devices and improved our knowledge of arduino.
+## Main work completed
+
+We revised the final proposal based on the feedback we received from the teacher in class on the proposal. Added preliminary design, circuit diagram and planned components to the proposal. In the same week, the two of us continued our research, brainstormed online & mindmap, read literature on social network tagging, looked at related space devices and improved our knowledge of arduino.
 
 #### Original Brainstorm Map
 (Discussion and drawing based on Chinese for native language reasons)
