@@ -164,7 +164,7 @@ else
 
 #### Sketch:
 
-![image]https://github.com/mylin04202/img/blob/main/IMG_4329.PNG
-![image]https://github.com/mylin04202/img/blob/main/IMG_4328.PNG
-![image]https://github.com/mylin04202/img/blob/main/IMG_4327.PNG
-![image]https://github.com/mylin04202/img/blob/main/IMG_4326.PNG
+![image](https://github.com/mylin04202/img/blob/main/IMG_4329.PNG)
+![image](https://github.com/mylin04202/img/blob/main/IMG_4328.PNG)
+![image](https://github.com/mylin04202/img/blob/main/IMG_4327.PNG)
+![image](https://github.com/mylin04202/img/blob/main/IMG_4326.PNG)
