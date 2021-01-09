@@ -1,17 +1,20 @@
-## week 09 - week 12 Work Log
+## WEEK 09 - WEEK 12 Work Log
 
 #### Main Work
 
 We drew up the final circuits. After meeting up we practiced soldering, then initially built the circuit, tested it, set up the external decorations and filmed the video.
 
 
-
 #### Soldering Practice
 
+
+![image](https://github.com/mylin04202/img/blob/main/WechatIMG1995.jpeg)
 
 
 #### Circuits (Final version)
 
+
+![image](https://github.com/mylin04202/img/blob/main/finall.jpg)
 
 
 #### Schematic (drawn by Minyue Lin)
@@ -20,11 +23,16 @@ We drew up the final circuits. After meeting up we practiced soldering, then ini
 
 
 
-
 #### Appearance of the Project
 
 ![image](https://github.com/mylin04202/img/blob/main/P1030116.JPG)
 ![image](https://github.com/mylin04202/img/blob/main/P1030135.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1030125.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1030118.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1030119.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1030159.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1030160.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1030161.JPG)
 
 
 
