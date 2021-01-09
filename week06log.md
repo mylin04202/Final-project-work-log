@@ -1,5 +1,5 @@
 
-### Major work completed
+## Major work completed
 
 We revised the final proposal based on the feedback we received from the teacher in class on the proposal. Added preliminary design, circuit diagram and planned components to the proposal. In the same week, the two of us continued our research, brainstormed online & mindmap, read literature on social network tagging, looked at related space devices and improved our knowledge of arduino.
 
@@ -8,7 +8,7 @@ We revised the final proposal based on the feedback we received from the teacher
 
 ![image](https://github.com/mylin04202/img/blob/main/brainstorm.png)
 
-Mindmap（Integrated mind mapping (making and organising logic by Minyue LIN& Lanxin LI)）
+### Mindmap（Integrated mind mapping (making and organising logic by Minyue LIN& Lanxin LI)）
 
 ![image](https://github.com/mylin04202/img/blob/main/mindmap.png)
 
