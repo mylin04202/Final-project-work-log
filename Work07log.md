@@ -39,12 +39,9 @@ void loop(){
   }
 ```
 
-
+![image](https://github.com/mylin04202/img/blob/main/pir.jpg)
 
 Light dependent resistor Project:
-
-
-
 
 
 ```
@@ -149,8 +146,6 @@ else
     delay(750);
       digitalWrite(ledflicker,LOW);
     delay(750);
-
-
 }
 else
 {
@@ -163,6 +158,6 @@ else
 
 ```
 
-
+![image](https://github.com/mylin04202/img/blob/main/ldr.jpg)
 
 #### Sketch:
