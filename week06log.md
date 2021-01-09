@@ -1,4 +1,4 @@
-Revised the final proposal based on the teacher's feedback on the proposal and resubmitted it. The same week continued with the preliminary research, online brainstorming & mindmap sorting, reading literature, looking at related space devices and improving knowledge of arduino.
+###Revised the final proposal based on the teacher's feedback on the proposal and resubmitted it. The same week continued with the preliminary research, online brainstorming & mindmap sorting, reading literature, looking at related space devices and improving knowledge of arduino.
 
 original Brainstorm
 
