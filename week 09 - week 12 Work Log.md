@@ -19,6 +19,8 @@ We drew up the final circuits. After meeting up we practiced soldering, then ini
 ![image](https://github.com/mylin04202/img/blob/main/sch.png)
 
 
+
+
 #### Appearance of the Project
 
 ![image](https://github.com/mylin04202/img/blob/main/P1030116.JPG)
@@ -26,7 +28,9 @@ We drew up the final circuits. After meeting up we practiced soldering, then ini
 
 
 
+#### Code
 
+```
 int ledflicker = 4;  
 int ledred = 5;   
 int led01 = 6;  
@@ -44,8 +48,8 @@ int val = 0;
 
 int val01 = 0;
 int val02 = 0;
-    int ledval01 = 0;
-    int ledval02 = 0;
+int ledval01 = 0;
+int ledval02 = 0;
 
 
 void setup() {
@@ -172,6 +176,10 @@ else
   
   // Delay a little bit to improve simulation performance
 }
+
+```
+
+
 
 
 
