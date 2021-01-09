@@ -1,14 +1,19 @@
-###Revised the final proposal based on the teacher's feedback on the proposal and resubmitted it. The same week continued with the preliminary research, online brainstorming & mindmap sorting, reading literature, looking at related space devices and improving knowledge of arduino.
 
-original Brainstorm
+### Major work completed
 
-![IMG_4324的副本](/Users/noahl/Downloads/IMG_4324%E7%9A%84%E5%89%AF%E6%9C%AC.PNG)
+We revised the final proposal based on the feedback we received from the teacher in class on the proposal. Added preliminary design, circuit diagram and planned components to the proposal. In the same week, the two of us continued our research, brainstormed online & mindmap, read literature on social network tagging, looked at related space devices and improved our knowledge of arduino.
 
-mindmap（Integrated mind mapping (making and organising logic by Minyue LIN& Lanxin LI)）
+### Original Brainstorm Map
+(Discussion and drawing based on Chinese for native language reasons)
+
+
+
+Mindmap（Integrated mind mapping (making and organising logic by Minyue LIN& Lanxin LI)）
 
 ![image-20210107110423997](/Users/noahl/Library/Application%20Support/typora-user-images/image-20210107110423997.png)
 
-（参考交流的文献，装置）
+
+### References & Designs, and Ideas
 
 Cappella, J.. “Vectors into the Future of Mass and Interpersonal Communication Research: Big Data, Social Media, and Computational Social Science.” *Human communication research* 43 4 (2017): 545-558 .
 
