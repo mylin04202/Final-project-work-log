@@ -44,8 +44,8 @@ int val = 0;
 
 int val01 = 0;
 int val02 = 0;
-int ledval01 = 0;
-int ledval02 = 0;
+    int ledval01 = 0;
+    int ledval02 = 0;
 
 
 void setup() {
