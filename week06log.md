@@ -6,11 +6,11 @@ We revised the final proposal based on the feedback we received from the teacher
 ### Original Brainstorm Map
 (Discussion and drawing based on Chinese for native language reasons)
 
-
+![image](https://github.com/mylin04202/img/blob/main/brainstorm.png)
 
 Mindmap（Integrated mind mapping (making and organising logic by Minyue LIN& Lanxin LI)）
 
-![image-20210107110423997](/Users/noahl/Library/Application%20Support/typora-user-images/image-20210107110423997.png)
+![image](https://github.com/mylin04202/img/blob/main/mindmap.png)
 
 
 ### References & Designs, and Ideas
