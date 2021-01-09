@@ -1,4 +1,4 @@
-# WEEK 07 WORK LOG
+# Week 07 WORK LOG
 
 #### Main Work
 
