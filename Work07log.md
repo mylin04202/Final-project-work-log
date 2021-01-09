@@ -1,3 +1,5 @@
+# WEEK 07 WORK LOG
+
 #### Main Work
 
 We discussed how the device would interact and sketched it out. And several changes to the circuit diagram were made, programmed and explored to see if the newly learned sensors could be incorporated into the device without any problems.
@@ -161,3 +163,8 @@ else
 ![image](https://github.com/mylin04202/img/blob/main/ldr.jpg)
 
 #### Sketch:
+
+![image]https://github.com/mylin04202/img/blob/main/IMG_4329.PNG
+![image]https://github.com/mylin04202/img/blob/main/IMG_4328.PNG
+![image]https://github.com/mylin04202/img/blob/main/IMG_4327.PNG
+![image]https://github.com/mylin04202/img/blob/main/IMG_4326.PNG
