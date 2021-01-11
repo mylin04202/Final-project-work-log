@@ -13,6 +13,21 @@ We revised the final proposal based on the feedback we received from the teacher
 
 ![image](https://github.com/mylin04202/img/blob/main/mindmap.png)
 
+#### Original 3 plans
+
+##### plan 01
+
+![image](https://github.com/mylin04202/img/blob/main/1.jpg)
+
+##### plan 02
+
+![image](https://github.com/mylin04202/img/blob/main/3.jpg)
+
+##### plan 03
+
+![image](https://github.com/mylin04202/img/blob/main/hunong2.jpg)
+
+
 #### References & Designs, and Ideas
 Cappella, J.. “Vectors into the Future of Mass and Interpersonal Communication Research: Big Data, Social Media, and Computational Social Science.” Human communication research 43 4 (2017): 545-558 .
 
