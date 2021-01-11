@@ -30,9 +30,9 @@ We drew up the final circuits. After meeting up we practiced soldering, then ini
 ![image](https://github.com/mylin04202/img/blob/main/P1030125.JPG)
 ![image](https://github.com/mylin04202/img/blob/main/P1030118.JPG)
 ![image](https://github.com/mylin04202/img/blob/main/P1030119.JPG)
-![image](https://github.com/mylin04202/img/blob/main/P1030159.JPG)
-![image](https://github.com/mylin04202/img/blob/main/P1030160.JPG)
-![image](https://github.com/mylin04202/img/blob/main/P1030161.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1080159.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1080160.JPG)
+![image](https://github.com/mylin04202/img/blob/main/P1080161.JPG)
 
 
 
